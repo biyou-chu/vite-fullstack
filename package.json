@@ -7,10 +7,9 @@
     "type": "git",
     "url": "https://github.com/biyou-chu/vite-fullstack.git"
   },
-  "author": "John <loujiayuan@dolaime.com>",
   "license": "MIT",
   "homepage": "https://github.com/biyou-chu/vite-fullstack#readme",
-  "description": "This is the application template specifically designed for chu-toolkit, an AI-powered self-service tool for application construction.",
+  "description": "Vite starter fullstack template integrated with shadcn/ui components and styling system",
   "scripts": {
     "start:app": "vite",
     "start:server": "workerd serve config.capnp",
